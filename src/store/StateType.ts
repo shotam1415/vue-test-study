@@ -1,0 +1,3 @@
+type StateType = {
+  currentCount: number;
+};
